@@ -1,0 +1,49 @@
+.saga-about-wrap .saga-section .dashicons {
+	margin-top: -4px;
+	vertical-align: middle;
+}
+
+.saga-about-wrap .nav-tab {
+	font-size: 16px;
+}
+
+.saga-about-wrap h1 {
+	font-size: 2em;
+}
+
+.saga-about-wrap h3 {
+	font-size: 1.2em;
+}
+
+.saga-about-wrap .saga-section-useful-plugins,
+.saga-about-wrap .saga-section-upgrade-to-pro,
+.saga-about-wrap .saga-section-demo-content {
+	margin-top: 50px;
+}
+
+.saga-about-wrap .tab-upgrade-to-pro {
+	background-color: #bf2424;
+	background-color: #159614;
+	color: #FFF;
+}
+
+.saga-about-wrap .wp-badge {
+	background-image: url('../images/logo.png');
+	background-color: #FFF;
+	background-size: 110px auto;
+	background-position: center;
+	height: 70px;
+}
+
+.saga-about-wrap .quick-links a {
+	margin-right: 5px;
+}
+
+.saga-about-notice .btn-dismiss {
+	margin-left: 20px;
+}
+
+.saga-about-wrap .plugin-list {
+	list-style-position: inside;
+	list-style-type: disc;
+}
